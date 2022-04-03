@@ -5,6 +5,7 @@
 
 # Results
 - As you can see in the screen shot below Pewlett Hackard will have a large amount of Senior Engineer and Senior staff retiring with each having over 20,000 employees. With these being very important roles this information is crucial to assist with preparing for the future. 
+
 ![](Resources/retiring_titles.PNG)
 
 - After looking through the output from the retirement titles table I noticed that there is a few employees who have had multiple titles since joining the company. This tells me that Pewlett Hackard does a great job at training and moving their employees up to high positions. As you can see below employees like Chirstian, kyoichi, Sumant, nad Kazuhide all had multiple positions within the company showing they had growth. 
