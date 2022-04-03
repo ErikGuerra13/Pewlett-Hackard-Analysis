@@ -16,6 +16,7 @@
 
 # Summary
 - As the "silver tsunami" begins to impact Pewlett Hackard there is a total of 72,458 roles that will need to be filled. 
+- 
 ![](Resources/sum_query.PNG)
 ![](Resources/sum.PNG)
 
